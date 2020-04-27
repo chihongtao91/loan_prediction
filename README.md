@@ -7,3 +7,8 @@ For financial institutions (e.g. banks, online lenders), a key task is to evalua
 1). Will the borrower default on their payment ?  
 2) How long will the borrower pay back the loan ?  
 3) What type of loan yield the highest return of investment ? 
+
+To run the notebook, make sure you have the datasets downloaded from the kaggle link stored in the same directory, and you have jupyter notebook installed. Then launch the jupyter server and click into the ipython notebook.
+```
+jupyter notebook
+```
