@@ -1,5 +1,5 @@
 # Loan prediction
-Predicting the risk of returns of financial loans
+Predicting the risk and returns of financial loans
 
 ## Objective
 For financial institutions (e.g. banks, online lenders), a key task is to evaluate the risk and return of the loans given out. In this project, we will use loans dataset on Kaggle from Lending Club (https://www.kaggle.com/wendykan/lending-club-loan-data) to answer below questiosn
