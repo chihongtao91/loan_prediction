@@ -1,10 +1,15 @@
 # Loan prediction
-Predicting good / bad loans
+Predicting the risk of financial loans
 
 ## Objective
 For financial institutions (e.g. banks, online lenders), a key task is to evaluate the risk and return of the loans given out. In this project, we will perform analysis on the publicly available loans dataset on Kaggle from Lending Club (https://www.kaggle.com/wendykan/lending-club-loan-data). 
 
 The key question we are trying to answer is, given a loan application, will it turn out to be a good loans (fully paid), or a bad loan, which can be in any of these states (Default, Charged off, Late in payment). 
+
+## Dataset
+To run this project, first download the dataset: loan.csv from https://www.kaggle.com/wendykan/lending-club-loan-data, put it under this path: __data/loan.csv__
+
+For reference, we have included the Data Dictionary provided by lending club at __data/LCDataDictionary.xlsx__.
 
 ## Data Exploration, Pre-processing & Modelling
 We have organised our code in two Jupyter notebook. 
