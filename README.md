@@ -7,9 +7,14 @@ For financial institutions (e.g. banks, online lenders), a key task is to evalua
 The key question we are trying to answer is, given a loan application, will it turn out to be a good loans (fully paid), or a bad loan, which can be in any of these states (Default, Charged off, Late in payment). 
 
 ## Dataset
-To run this project, first download the dataset: loan.csv from https://www.kaggle.com/wendykan/lending-club-loan-data, put it under this path: __data/loan.csv__
-
-For reference, we have included the Data Dictionary provided by lending club at __data/LCDataDictionary.xlsx__.
+To run this project, first download the dataset: loan.csv from https://www.kaggle.com/wendykan/lending-club-loan-data, put it under below path:
+```
+data/loan.csv
+```
+For reference, we have included the Data Dictionary provided by lending club at this path: 
+```
+data/LCDataDictionary.xlsx
+```
 
 ## Data Exploration, Pre-processing & Modelling
 We have organised our code in two Jupyter notebook. 
