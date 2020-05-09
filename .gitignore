@@ -1,2 +1,4 @@
 *.sqlite
 *.csv
+data/loan.csv.zip
+.ipynb_checkpoints/data_exploration-checkpoint.ipynb
