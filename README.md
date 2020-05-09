@@ -24,7 +24,7 @@ This notebook covers the Explorative Data Analysis, for which we plot some of th
 
 * data_preprocessing_modelling.ipython 
 
-The second notebook entails the Data Pre-processing and Modelling, for which we tried various shallow classificiation models, as well as Deep Learning approach, with varying results. 
+The second notebook entails the Data Pre-processing and Modelling, for which we tried various shallow classificiation models, as well as Deep Learning approach. We also include the evaluation of the various models. 
 
 To run the notebooks, make sure you have the datasets (_loan.csv_) downloaded from the kaggle link stored in __./data__ directory, and you have jupyter notebook installed. Also below python packages need to be installed in your python environment:
 * tensorflow
